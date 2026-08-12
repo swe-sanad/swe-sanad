@@ -3,7 +3,7 @@ sanad@swe-pioneers:~$ whoami --verbose
 
   ┌────────────────────────────────────────────────────────────┐
   │  SANAD ALAROUSI                                            │
-  │  software engineer · platforms, ERP & developer tooling     │
+  │  software engineer · platforms, ERP & developer tooling    │
   └────────────────────────────────────────────────────────────┘
 
   role       platform lead @ SWE-Pioneers
